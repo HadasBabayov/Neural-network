@@ -3,6 +3,8 @@
 In this project, I implement fully connected neural network with backpropagation.<br/>
 dataset - MNIST.
 
+**Instructions for how to run and use the code:**
+
  Install the following packages: 
   ```
   pip install numpy
